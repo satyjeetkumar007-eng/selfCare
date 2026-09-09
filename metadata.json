@@ -1,0 +1,8 @@
+{
+  "name": "Self Care",
+  "description": "An educational health and wellness information platform providing easy-to-understand insights, symptoms, causes, precautions, and self-care guidance for common illnesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
